@@ -1,1 +1,0 @@
-// Página principal (adicione seu conteúdo React aqui)
